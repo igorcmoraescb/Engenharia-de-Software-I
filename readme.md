@@ -16,5 +16,5 @@
 <br/>
 <p>Valor: 8pts</p>
 <p>Data limite: 25/02</p>
-
-<p style="font-size: 3em">adfsdafsdf</p>
+<br/>
+<p><b>IMPORTANTÍSSIMO: A FORMATAÇÃO IMPORTA, E MUITO! FAÇAM COMO ESTÁ NO MODELO ANEXADO!</b></p>
