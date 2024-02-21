@@ -1,4 +1,4 @@
-<p>Para essa <b>primeira atividade</b>, vocês devem definir 7 requisitos funcionais. Além disso, vocês devem criar um Requisito Não-Funcional de cada tipo:</p><br/>
+<p>Para essa <b>primeira atividade</b>, vocês devem definir 7 Fequisitos Funcionais. Além disso, vocês devem criar um Requisito Não-Funcional de cada tipo:</p><br/>
 <ul>
   <li>Requisito de facilidade de uso</li>
   <li>Requisito de desempenho</li>
