@@ -1,12 +1,12 @@
-<p>Para essa <b>segunda atividade</b>, vocês devem criar uma capa, um sumário e toda a seção de Modelagem de Domínio do Problema.</p>
+<p>Para essa <b>terceira atividade</b>, vocês devem criar a seção do Diagrama de atividades. Lembrem-se de atualizar o sumário e garanta que toda a formatação de todas as seções estejam em conformidade.</p>
 <br/>
-<p>Para a subseção de referências, utilize no mínimo 3.</p>
-<p>Para a subseção de linguagem, não esqueça de justificar o tipo de linguagem escolhida.</p>
-<p>Para a subseção de descrição do sistema, não esqueça de regra: nem todos os requisitos funcionais precisam aparecer na descrição, mas todas as funções da descrição precisam aparecer como requisitos funcionais.</p>
+<p>É necessário criar um Diagrama de Atividade para cada requisito funcional. Verifique o modelo do professor, na pasta Atividade 3.</p>
+<p>Para a criação dos diagramas, sugiro o site draw.io, acessível a partir <a href="https://app.diagrams.net/">desse link.</a></p>
+</p>
 <br/>
-<p>Eu cortei o modelo da atividade 2 para ficar só a seção de agora, mas o documento de vocês deve incluir a seção de requisitos.</p>
+<p>Em caso de dúvidas, me coloco à disposição.</p>
 <br/>
 <p>Valor: 8pts</p>
-<p>Data limite: 10/03</p>
+<p>Data limite: 24/03 (os que não estão entregando a parcial estão indo mal, sejam responsáveis)</p>
 <br/>
 <p><b>IMPORTANTÍSSIMO: A FORMATAÇÃO IMPORTA, E MUITO! FAÇAM COMO ESTÁ NO MODELO ANEXADO!</b></p>
